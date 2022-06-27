@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Hang Man Game:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Hang_Man_Game_jar</output-path>
+    <root id="archive" name="Hang Man Game.jar">
+      <element id="module-output" name="Hang Man Game" />
+    </root>
+  </artifact>
+</component>
